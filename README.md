@@ -7,5 +7,5 @@ Fivem - NPC ESX
 
 # Dependency
 - ESX 
-
+- object_gizmo
 
