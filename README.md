@@ -6,6 +6,7 @@ Fivem - NPC ESX
 - 0.00ms
 
 # Dependency
-- ESX 
+- ESX
+- ox_lib
 - object_gizmo
 
