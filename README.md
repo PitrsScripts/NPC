@@ -1,7 +1,7 @@
 # NPC
 Fivem - NPC ESX
 
-#README 
+# README 
 you can move peda using ox_target if you have a group selected in config.lua
 
 
